@@ -1,1 +1,1 @@
-worker: weather.py
+worker: python weather.py
